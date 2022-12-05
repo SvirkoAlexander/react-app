@@ -99,7 +99,7 @@ const ProductDetails = () => {
     <Helmet title={productName}>
       <CommonSection title={productName} />
 
-      <section className="pt-5 ">
+      <section className="details__home pt-4 ">
         <Container>
           <Row>
             <Col lg="6">

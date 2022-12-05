@@ -16,7 +16,7 @@
 }
 .quick__links-title {
   margin-bottom: 20px;
-  color:var(--primary-color);
+  color: var(--primary-color);
   font-size: 1.1rem;
 }
 .footer__contact li span,
@@ -35,4 +35,10 @@
   font-size: 0.9rem;
   margin-top: 50px;
   text-align: center;
+}
+.inst,
+.telega {
+  font-size: 25px;
+  color: var(--primary-color);
+  padding: 3px;
 }

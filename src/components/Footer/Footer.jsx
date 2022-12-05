@@ -48,7 +48,11 @@ const Footer = () => {
           <Col lg="2" md="3" className="mb-4">
             <div className="footer__quick-links">
               <h4 className="quick__links-title">ССЫЛКИ</h4>
-              <ListGroup>
+							<ListGroup>
+							<ListGroupItem className="ps-0 border-0">
+                  <Link to="/home">Главная</Link>
+                </ListGroupItem>
+
                 <ListGroupItem className="ps-0 border-0">
                   <Link to="/shop">Каталог</Link>
                 </ListGroupItem>
@@ -86,9 +90,13 @@ const Footer = () => {
                   <span>
                     <i className="ri-mail-line"></i>
                   </span>
-                  <p>email@yandex.com</p>
-                </ListGroupItem>
-              </ListGroup>
+									<p>email@yandex.com</p>
+								</ListGroupItem>
+								
+							</ListGroup>
+							<a className="inst" href="https://www.youtube.com"><i className="ri-instagram-line"></i></a>
+							<a className="telega" href="https://www.youtube.com"><i className="ri-telegram-line"></i></a>
+							
             </div>
           </Col>
 

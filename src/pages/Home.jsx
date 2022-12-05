@@ -56,7 +56,18 @@ const Home = () => {
 
                 <motion.button whileTap={{ scale: 1.2 }} className="buy__btn">
                   <Link to="/shop">Купить Сейчас</Link>
-                </motion.button>
+								</motion.button>
+
+								<div className="socmedia">
+
+                <a className="inst" href="https://www.youtube.com">
+                  <i className="ri-instagram-line"></i>
+                </a>
+                <a className="telega" href="https://www.youtube.com">
+                  <i className="ri-telegram-line"></i>
+                </a>
+								</div>
+								
               </div>
             </Col>
 
@@ -72,7 +83,7 @@ const Home = () => {
       <Services />
       <section className="trending__products">
         <Container>
-          <Row>
+          <Row className="popular__home">
             <Col lg="12" className="text-center mb-5">
               <h2 className="section__title ">Популярный товар</h2>
             </Col>
@@ -88,7 +99,7 @@ const Home = () => {
 
       <section className="best__sales">
         <Container>
-          <Row>
+          <Row className="popular__home">
             <Col lg="12" className="text-center mb-5">
               <h2 className="section__title">Лучшая цена</h2>
             </Col>
@@ -131,9 +142,9 @@ const Home = () => {
 
       <section className="popular__category">
         <Container>
-          <Row>
+          <Row className="popular__home">
             <Col lg="12" className="text-center mb-5">
-              <h2 className="section__title">Популярные в категории</h2>
+              <h2 className="section__title pt-5">Популярные в категории</h2>
             </Col>
             {loading ? (
               <h5 className="fw-bold">Loading...</h5>

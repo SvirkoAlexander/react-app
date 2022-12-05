@@ -35,20 +35,6 @@ const Shop = () => {
       setProductsData(filteredProducts);
     }
 
-    if (filterValue === "шоколад") {
-      const filteredProducts = products.filter(
-        (item) => item.category === "шоколад"
-      );
-
-      setProductsData(filteredProducts);
-    }
-    if (filterValue === "SPA") {
-      const filteredProducts = products.filter(
-        (item) => item.category === "SPA"
-      );
-
-      setProductsData(filteredProducts);
-    }
     if (filterValue === "Популярные") {
       const filteredProducts = products.filter(
         (item) => item.category === "Популярные"
@@ -81,7 +67,7 @@ const Shop = () => {
               <div className="filter__widget">
                 <select onChange={handleFilter}>
                   <option>Фильтр по категории</option>
-                  <option value="Скраб для тела">Шоколад - кокос</option>
+                  <option value="Скраб для тела">Скраб для тела</option>
                   <option value="Лучшая цена">Лучшая цена</option>           
                   <option value="Популярные">Популярные</option>
                   
@@ -116,9 +102,9 @@ const Shop = () => {
 
       <section className="catalog__products pt-0">
         <Container>
-          <Row>
+          <Row className="popular__home">
             {productsData.length === 0 ? (
-              <h1 className="text-center fs-4">Введите название продукта продукт!</h1>
+              <h1 className="text-center fs-4">Введите название продукта товара!</h1>
             ) : (
               <ProductsList data={productsData} />
             )}
