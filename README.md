@@ -63,7 +63,7 @@ For the title page when changing the view, I added a ccs filter to dynamically c
 ## View Work
 
 - 👀 [
-view site [react-3hgntv4eb-svirkonp-yandexby.vercel.app]
+view site "https://react-kx4ejk678-svirkonp-yandexby.vercel.app/home"
 
 
 ## 💻 Developer
