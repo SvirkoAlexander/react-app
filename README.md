@@ -44,21 +44,19 @@
 
 ## Описание
 
-Создание и разработка полноценного сайта для художника из города Минска. Использование современных технологий веб-разработки. Смотрите другие мои работы!
+Создание и развёртка интернет-магазина косметики Lisana. Использование современных технологий веб-разработки React Redux Toolkit FireBase. Смотрите другие мои работы!
 
 ## Запросы клиента
 
-Клиент попросил изменить тему оформления сайта с дневного на ночной вид. Для плавной прокрутки сайта я использовал scrollreveal с пользовательскими настройками. Для продукта swiper, swiper-bundle, настроив его в соответствии с общим стилем сайта.
-Для титульного листа при смене вида я добавил фильтр ccs для динамического изменения цвета при переключении с дневного на ночной режим. Для заказа новой картины я использовал emailjs чтобы клиент мог легко принимать новые заказы.
+Клиент попросил разработать интернет-магазин с панелью администратора для самостоятельного пополнения товаров и контроля пользователей. Для Back-end я использовал Redux и Firebase для реализации регистрации и админ-панели. 
 
 ## Description
 
-Creation and development of a full-fledged site for an artist from the city of Minsk. Using modern web development technologies. See my other works!
+Creation and deployment of an online cosmetics store Lisana. Using modern web development technologies React Redux Toolkit FireBase. See my other works!
 
 ## Requests
 
-The client asked to change the theme of the site from day to night view. For smooth scrolling of the site, I used scrollreveal with custom settings. For the product swiper, swiper-bundle by customizing it to fit the overall style of the site.
-For the title page when changing the view, I added a ccs filter to dynamically change the color when switching from day to night mode. To order a new painting, I used emailjs so that the client can easily accept new orders.
+The client asked to develop an online store with an admin panel for self-replenishment of goods and user control. For the Back-end, I used Redux and Firebase to implement the registration and admin panel.
 
 ## View Work
 
