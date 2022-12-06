@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46f2f952.css",
+    "main.js": "/static/js/main.821581c7.js",
+    "static/media/skrabcount.png": "/static/media/skrabcount.0da992174804558ee3e7.png",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/cosmitics-bg2.jpg": "/static/media/cosmitics-bg2.215fae2c4d8871036d0d.jpg",
+    "static/media/hero-img3.jpg": "/static/media/hero-img3.09090bd24606c962e504.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/eco-logo3.png": "/static/media/eco-logo3.8eeb40f97d0fc1cbbeca.png",
+    "index.html": "/index.html",
+    "main.46f2f952.css.map": "/static/css/main.46f2f952.css.map",
+    "main.821581c7.js.map": "/static/js/main.821581c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f2f952.css",
+    "static/js/main.821581c7.js"
+  ]
+}
