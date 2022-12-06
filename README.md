@@ -62,8 +62,8 @@ For the title page when changing the view, I added a ccs filter to dynamically c
 
 ## View Work
 
-- 👀 [
-view site https://react-kx4ejk678-svirkonp-yandexby.vercel.app/home
+- 👀 
+View site https://react-kx4ejk678-svirkonp-yandexby.vercel.app/home
 
 
 ## 💻 Developer
@@ -72,4 +72,4 @@ view site https://react-kx4ejk678-svirkonp-yandexby.vercel.app/home
 
 ## License 
 
-Project (https://react-kx4ejk678-svirkonp-yandexby.vercel.app/home) is distributed under the MIT License.
+Project is distributed under the MIT License.
