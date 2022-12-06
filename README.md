@@ -38,7 +38,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/version-chrome-green" alt="web">
-   <img src="https://img.shields.io/badge/React-Redux-blue" alt="framework">
+   <img src="https://img.shields.io/badge/-React%2FRedux-blue" alt="framework">
    <img src="https://img.shields.io/badge/-FireBase-orange" alt="framework">
    
 </p>
