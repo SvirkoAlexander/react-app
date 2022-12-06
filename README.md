@@ -6,22 +6,22 @@
 <br>
 
  
-## Lisana Shop     
+## Lisana Shop 💰  
 <p align="center">
       <img src="lisana_shop.png" width="726">
 </p>
 
-## Lisana Cart     
+## Lisana Cart 🛒    
 <p align="center">
       <img src="lisana_cart.png" width="726">
 </p>
 
-## Lisana Dashboard     
+## Lisana Dashboard 💻    
 <p align="center">
       <img src="lisana_dashboard.png" width="726">
 </p>
 
-## Lisana Users     
+## Lisana Users 👨🏼‍💼    
 <p align="center">
       <img src="lisana_users.png" width="726">
 </p>
