@@ -11,15 +11,25 @@
       <img src="lisana_shop.png" width="726">
 </p>
 
-## Lisana Shop     
+## Lisana Cart     
 <p align="center">
-      <img src="lisana_shop.png" width="726">
+      <img src="lisana_cart.png" width="726">
+</p>
+
+## Lisana Dashboard     
+<p align="center">
+      <img src="lisana_dashboard.png" width="726">
+</p>
+
+## Lisana Users     
+<p align="center">
+      <img src="lisana_users.png" width="726">
 </p>
 
 ## Other Devices 📱
 <p align="center">
-      <img src="ipone width.png" width="250">
-      <img src="ipad width.png" width="400">
+      <img src="iphone_lisana.png" width="250">
+      <img src="ipad_lisana.png" width="400">
 </p>
 
 
