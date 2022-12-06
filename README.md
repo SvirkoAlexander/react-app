@@ -62,7 +62,7 @@ The client asked to develop an online store with an admin panel for self-repleni
 ## View Work
 
 - 👀 [View site] 
-(https://react-kx4ejk678-svirkonp-yandexby.vercel.app/home)
+(https://lisana.netlify.app)
 
 
 ## 💻 Developer
