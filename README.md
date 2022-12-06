@@ -4,12 +4,27 @@
       <img src="lisana_title.png" width="726">
 </p>
 <br>
+## Lisana E-Commerce Title
+<p align="center">
+      <img src="lisana_title.png" width="726">
+</p>
+<br>
+## Lisana E-Commerce Title
+<p align="center">
+      <img src="lisana_title.png" width="726">
+</p>
+<br>
+## Lisana E-Commerce Title
+<p align="center">
+      <img src="lisana_title.png" width="726">
+</p>
+<br>
  
-## Lisana 
+## Lisana Shop
 
       
 <p align="center">
-      <img src="fontwo.png" width="726">
+      <img src="lisana_shop" width="726">
 </p>
 
 ## Other Devices 📱
