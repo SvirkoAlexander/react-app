@@ -1,7 +1,7 @@
 
-## Light Theme ☀️
+## Lisana E-Commerce Title
 <p align="center">
-      <img src="fon.png" width="726">
+      <img src="lisana_title.png" width="726">
 </p>
 <br>
  
