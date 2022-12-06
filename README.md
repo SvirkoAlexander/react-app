@@ -63,7 +63,7 @@ For the title page when changing the view, I added a ccs filter to dynamically c
 ## View Work
 
 - 👀 [
-view site](https://kseniart.netlify.app)
+view site react-app-theta-ten.vercel.app
 
 
 ## 💻 Developer
@@ -72,4 +72,4 @@ view site](https://kseniart.netlify.app)
 
 ## License 
 
-Project https://kseniart.netlify.app is distributed under the MIT License.
+Project react-app-theta-ten.vercel.app is distributed under the MIT License.
