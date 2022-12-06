@@ -6,9 +6,12 @@
 <br>
 
  
-## Lisana Shop
+## Lisana Shop     
+<p align="center">
+      <img src="lisana_shop.png" width="726">
+</p>
 
-      
+## Lisana Shop     
 <p align="center">
       <img src="lisana_shop.png" width="726">
 </p>
