@@ -61,8 +61,8 @@ The client asked to develop an online store with an admin panel for self-repleni
 
 ## View Work
 
-- 👀 [View site] 
-(https://lisana.netlify.app)
+- 👀 [
+Просмотр работы](https://lisana.netlify.app/)
 
 
 ## 💻 Developer
